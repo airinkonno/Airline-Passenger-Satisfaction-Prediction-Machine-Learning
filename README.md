@@ -13,7 +13,7 @@ Based on various characteristics of the passengers, their ratings on the airline
   - test.csv
   - train.csv
 - ML Project Workbook.ipynb
-- Predicting Airline Passenger Satisfaction - ML Project.pptx
+- Predicting Airline Passenger Satisfaction - ML Project.pdf
 - README.md
 
 # Dataset
